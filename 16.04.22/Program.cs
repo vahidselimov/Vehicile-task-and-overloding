@@ -15,7 +15,7 @@ namespace _16._04._22
             Car car1 = new Car("Black", 3000, "Mercedes", "90",100);
             Bus bus = new Bus("White", 2000,20);
             Bus bus1 = new Bus("Black", 2001,10);
-            #region
+            #region Task1
             //Program program = new Program();
 
             //Console.WriteLine(program.sum(2, 4));
